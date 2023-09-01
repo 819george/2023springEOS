@@ -1,2 +1,3 @@
 # 2023springEOS
-nycu EECN30062 Embedded operating system
+NYCU
+EECN30062 Embedded operating system
